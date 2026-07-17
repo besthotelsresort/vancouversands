@@ -1,0 +1,2 @@
+# vancouversands
+Static site: vancouversands
